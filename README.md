@@ -16,7 +16,7 @@ The current gallery features images of the actress Shraddha Kapoor.
 
 ## 🌐 Live Demo
 
-[- 🔗 Click here to view the live site on Netlify](https://fruitshopwebsite.netlify.app)
+[- 🔗 Click here to view the live site on Netlify](https://3dsliderimage.netlify.app/)
 
 [- 🔗 Click here to view the live site on GitHub Pages](https://riteshraut0116.github.io/fruit_shop_website_html/)
 

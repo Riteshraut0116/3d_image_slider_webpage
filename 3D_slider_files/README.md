@@ -1,5 +1,11 @@
-# 3D stack cards like windows7
+**## 🪟 3D Stack Cards like Windows 7**
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/yousefsami/pen/PbEmgp](https://codepen.io/yousefsami/pen/PbEmgp).
+---
 
-stack cards with 2 view mode : 3D and flat , in 3D mode transforms like windows 7 animation when switch between open windows
+A cool feature inspired by Windows 7's window switching animation! This section showcases stack cards with two view modes:
+
+🧊 3D Mode: Cards transform in 3D space, mimicking the iconic Windows 7 animation.
+🧱 Flat Mode: Cards are displayed in a traditional flat layout.
+🔗 Original Pen on CodePen: 3D Stack Cards[https://codepen.io/yousefsami/pen/PbEmgp](https://codepen.io/yousefsami/pen/PbEmgp)
+
+---
